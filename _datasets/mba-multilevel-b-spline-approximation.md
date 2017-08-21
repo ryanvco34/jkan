@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'MBA: Multilevel B-spline Approximation'
-organization: ''
+organization: Biostatistics
 notes: ''
 resources:
   - name: 'MBA: Multilevel B-spline Approximation'
