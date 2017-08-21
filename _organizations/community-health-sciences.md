@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Community Health Sciences
+title: Environmental Health Sciences
 description: ''
 logo: ''
 ---
