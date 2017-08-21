@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Akihiro Nishi
-description: 'http://ph.ucla.edu/faculty/NISHI'
+title: Michael Jerrett
+description: 'http://ph.ucla.edu/faculty/JERRETT'
 logo: >-
-  http://ph.ucla.edu/sites/default/files/styles/faculty_square/public/images/faculty/DSC_0026.JPG?itok=w2DDMHZe
+  http://ph.ucla.edu/sites/default/files/styles/faculty_square/public/images/faculty/Mike%20Jerrett-square.jpg?itok=wY2jLZPG
 ---
