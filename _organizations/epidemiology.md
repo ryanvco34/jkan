@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Epidemiology
+title: Center for Health Policy & Research
 description: ''
 logo: ''
 ---
