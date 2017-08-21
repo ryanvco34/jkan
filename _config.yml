@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 3730f8df9eb31106d20a
-gatekeeper_host: https://damp-mountain-47307.herokuapp.com
+github_client_id: 318743b46bb353f4c76e
+gatekeeper_host: https://immense-cliffs-98571.herokuapp.com
 
 # Dataset schema
 schema: default
