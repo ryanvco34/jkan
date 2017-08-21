@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'B2Z: Bayesian Two-Zone Model'
-organization: Biostatistics
+organization: 'Sudipto Banerjee, PhD'
 notes: This package fits the Bayesian two-Zone Models.
 resources:
   - name: 'B2Z: Bayesian Two-Zone Model'
