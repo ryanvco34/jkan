@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'MBA: Multilevel B-spline Approximation'
-organization: Biostatistics
+organization: 'Sudipto Banerjee, PhD'
 notes: ''
 resources:
   - name: 'MBA: Multilevel B-spline Approximation'
