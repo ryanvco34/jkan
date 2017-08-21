@@ -1,6 +1,6 @@
 title: FSPH Open Data Portal
-greeting: Welcome to the Fielding School Open Data Portal
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: <h2>We’re thrilled you’re here. <strong>The Fielding School of Public Health</strong> is home to truly incredible research by passionate and dedicated faculty, students and research staff. We believe that sharing our research data can accelerate the progress we can all make together in improving public health, both locally and globally. This open data portal is one of many steps we’re taking at FSPH to translate that belief into action.  Through this portal, we are making our research data available to all. We can’t wait to see what we can achieve together. Please send us your feedback <strong>FSPHopendata@ph.ucla.edu</strong>.</h2>
+description: 
 baseurl: /jkan
 logo: /img/jkan.png
 
