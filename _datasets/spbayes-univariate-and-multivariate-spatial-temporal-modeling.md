@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'spBayes: Univariate and Multivariate Spatial-Temporal Modeling'
-organization: Biostatistics
+organization: 'Sudipto Banerjee, PhD'
 notes: >-
   Fits univariate and multivariate spatio-temporal random effects models for
   point-referenced data using Markov chain Monte Carlo (MCMC).
