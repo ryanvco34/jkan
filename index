@@ -1,0 +1,158 @@
+<div class="match-my-cols row">
+	<div class="white-background col-md-10 pull-right">
+		<div class="row">
+			<img class="img-responsive center-block" src="/opendata/files/view/images/Homepage_Hero_skinny.jpg">
+		</div>
+
+		<p>
+			&nbsp;
+		</p>
+
+		<h2 class="page-title">
+			Welcome!
+		</h2>
+
+		<p>
+			We&rsquo;re thrilled you&rsquo;re here. The Fielding School of Public Health is home to remarkable&nbsp;research by passionate and dedicated faculty, students and research staff. We believe that sharing our data can accelerate the progress we can all make together in improving public health, both locally and globally. This public data portal is one of many steps we&rsquo;re taking at FSPH to translate that belief into action. Through this portal, we are making our data available to all. We can&rsquo;t wait to see what we can achieve together.
+		</p>
+
+		<div class="row openData" style="margin-top:20px;">
+			<div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4">
+				<div class="panel panel-info">
+					<div class="panel-heading" style="text-align: center;">
+						<strong>Survey and Environment&nbsp;&nbsp;Data</strong>
+					</div>
+
+					<div class="panel-body">
+						<a href="chis"><img class="img-responsive center-block" src="/opendata/files/view/images/CHIS_Icon.jpg"></a> <a href="/opendata/pages/MACS"><img class="img-responsive center-block" src="/opendata/files/view/images/MACS_Icon.jpg" style="margin-top: 20px;"></a>
+
+						<p>
+							&nbsp;
+						</p>
+
+						<p style="text-align: center;">
+							<a class="btn btn-info" href="/opendata/pages/survey_data_intermediary">More Survey And Environment&nbsp;Data</a>
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4">
+				<div class="panel panel-info">
+					<div class="panel-heading" style="text-align: center;">
+						<strong>Policy Data</strong>
+					</div>
+
+					<div class="panel-body">
+						<a href="/opendata/pages/Win-Win_Project"><img class="img-responsive center-block" src="/opendata/files/view/images/Win-Win_Icon.jpg"></a> <a href="/opendata/pages/World"><img class="img-responsive center-block" src="/opendata/files/view/images/World_Icon.jpg" style="margin-top: 20px;"></a>
+
+						<p>
+							&nbsp;
+						</p>
+
+						<p style="text-align: center;">
+							<a class="btn btn-info" href="/opendata/pages/policy_data_intermediary">More Policy Data</a>
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+				<div class="panel panel-info">
+					<div class="panel-heading" style="text-align: center;">
+						<strong>Data Tools</strong>
+					</div>
+
+					<div class="panel-body">
+						<a href="/opendata/pages/data_tool(1)"><img class="img-responsive center-block" src="/opendata/files/view/images/Biostatistics_Data_Tools_Icon.jpg"></a> <a href="/opendata/pages/Health_Forecast_Tool"><img class="img-responsive center-block" src="/opendata/files/view/images/Health_Forecasting_Icon.jpg" style="margin-top: 20px;"></a>
+
+						<p>
+							&nbsp;
+						</p>
+
+						<p style="text-align: center;">
+							<a class="btn btn-info" href="/opendata/pages/data_tools_intermediary">More Data Tools</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<h2 class="page-title">
+			Search for Data by User Group:
+		</h2>
+
+		<div class="row">
+			<div class="col-sm-4">
+				<a class="btn center-block btn-primary " href="/opendata/pages/policy_makers_intermediary">Policymakers</a>
+			</div>
+
+			<div class="col-sm-4">
+				<a class="btn center-block btn-primary " href="/opendata/pages/researchers_intermediary">Researchers</a>
+			</div>
+
+			<div class="col-sm-4">
+				<a class="btn  center-block btn-primary " href="/opendata/pages/data_enthusiasts_intermediary">Data Enthusiasts</a>
+			</div>
+		</div>
+
+		<div class="bottom-spacer hidden-xs">
+			&nbsp;
+		</div>
+
+		<div class="row">
+			<div class="col-sm-offset-2 col-sm-4">
+				<a class="btn center-block  btn-primary " href="/opendata/pages/social_entrepreneurship_intermediary">Social Entrepreneurs</a>
+			</div>
+
+			<div class="col-sm-4">
+				<a class="btn center-block btn-primary " href="/opendata/pages/data_journalist_intermediary">Media</a>
+			</div>
+		</div>
+
+		<div class="bottom-spacer">
+			&nbsp;
+		</div>
+	</div>
+
+	<div class="clearfix hidden-md hidden-lg">
+		&nbsp;
+	</div>
+
+	<div class="blue-background col-md-2">
+		<div class="hidden-xs hidden-sm deanSpacer">
+			&nbsp;
+		</div>
+
+		<div id="deansMessage">
+			<h2 class="text-center">
+				Message from the Dean
+			</h2>
+
+			<p>
+				Welcome to the Fielding School&rsquo;s public&nbsp;data portal.
+			</p>
+
+			<p>
+				We are in the midst of an incredible time for public health: a time where now more than ever, we can harness the power of data, together, to advance our collective health locally and globally. Making data widely available and a public good is critical to turning research into impact and good policy.
+			</p>
+
+			<p>
+				As a school of public health, we believe it is our responsibility to share our data as widely as possible, since breakthroughs can come from around the corner or around the world.
+			</p>
+
+			<p>
+				This data portal is only the beginning of what we hope will be a comprehensive effort to make our researchers&rsquo; data widely available and easy to find and use. Whether you&rsquo;re a public health researcher, policymaker, community member, or a member of the public who loves data, we look forward to all we can accomplish together.
+			</p>
+
+			<p>
+				<img class="img-responsive" src="/opendata/files/view/images/image001.png">
+			</p>
+
+			<p class="deanTitle">
+				Dean<br>
+				Fielding School of Public Health
+			</p>
+		</div>
+	</div>
+</div>
